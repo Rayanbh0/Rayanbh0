@@ -1,7 +1,4 @@
-#  
-<img src="https://github.com/Rayanbh0/Rayanbh0/assets/140953317/aef80557-c77f-4dc0-8dec-75b668386879.jpg" alt="" style="width: 80px; height: 80px;">  Rayan Bou Hassan
-
-
+# ⛺ Rayan Bou Hassan
 **`Software maestro (Engineer-Creator-Innovator)`**
 
 Passionate and devoted Software Engineering student at the University of Europe for Applied Science, dedicated to innovative problem-solving. Committed to ongoing personal and professional development,
