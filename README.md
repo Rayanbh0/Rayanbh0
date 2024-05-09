@@ -46,7 +46,7 @@ Skilled in multitasking across operating systems, with a keen interest in busine
 
 ### 📺 Latest Interest
 
-<!-- BEGIN CUSTOM IMAGES -->
+<!-- <!-- BEGIN CUSTOM IMAGES -->
 <p align="left">
     <a href="link_to_project_1">
         <img src="https://media.istockphoto.com/id/1213691432/photo/tourists-sitting-near-campfire-under-starry-sky.jpg?s=612x612&w=0&k=20&c=6B2GdQROSabFQKrerTaYHaplaCU2UwiOFokyUW6hEp0=" alt="Description of Image 1" style="width:250px; height:150px; border-radius:5px; margin-right:10px;">
@@ -70,7 +70,7 @@ Skilled in multitasking across operating systems, with a keen interest in busine
     </a>
 </p>
 <!-- END CUSTOM IMAGES -->
-
+-->
 
 
 #
